@@ -3,16 +3,16 @@ caraq-help-script
 
 Script used to accelerate the development speed for CaraQ Avafie app.
 
-##`animeScriptToJsonString.pl`
+###`animeScriptToJsonString.pl`
 Use to parse the action script to machine readable JSON-format string. __Must run this script first!!__
 
-##`animeFXsListing.pl`
+###`animeFXsListing.pl`
 List all the FX textures required by specific action script.
 
 * param: the file generated through the processing of script `animeScriptToJsonString.pl`.
 
 
-##`animeFXsResourcesCopyHelper.pl`
+###`animeFXsResourcesCopyHelper.pl`
 Help rearrange the TGA files in the same folder which are named by the __serial number__ of TGA files.  
 for example:
 
