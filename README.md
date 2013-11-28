@@ -13,7 +13,7 @@ List all the FX textures required by specific action script.
 
 
 ###`animeFXsResourcesCopyHelper.pl`
-Help rearrange the TGA files in the same folder which are named by the __serial number__ of TGA files.  
+Help rearrange the TGA files into the same folder which are named by the _serial number_ of TGA files.
 for example:
 
 - other_999_A.tga
@@ -25,7 +25,7 @@ for example:
 - other_999_G.tga
 - other_999_H.tga
 
-will be kept in the same folder.  
+will be kept in the same folder.
 The default cpoy destination path is `/tmp/10_others/`, you could change it by modify script.
 
 
