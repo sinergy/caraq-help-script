@@ -26,8 +26,4 @@ for example:
 - other_999_H.tga
 
 will be kept in the same folder.
-The default cpoy destination path is `/tmp/10_others/`, you could change it by modify script.
-
-
-
-
+The default destination of the copied .tga files will be `/tmp/10_others/`, you could change it by modify script by yourself.
